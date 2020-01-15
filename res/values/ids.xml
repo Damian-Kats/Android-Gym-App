@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="line1"/>
+    <item type="id" name="line2"/>
+    <item type="id" name="line3"/>
+    <item type="id" name="line4"/>
+    <item type="id" name="line5"/>
+    <item type="id" name="line6"/>
+    <item type="id" name="line7"/>
+    <item type="id" name="line8"/>
+    <item type="id" name="line9"/>
+    <item type="id" name="line10"/>
+    <item type="id" name="line11"/>
+    <item type="id" name="line12"/>
+    <item type="id" name="line13"/>
+    <item type="id" name="line14"/>
+    <item type="id" name="line15"/>
+</resources>

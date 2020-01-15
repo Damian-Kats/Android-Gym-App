@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Gym App</string>
+    <string-array name="leg_exercises">
+        <item>Barbell squats</item>
+        <item>Barbell lunges</item>
+        <item>Leg extensions</item>
+        <item>Leg curls</item>
+        <item>Calf raises</item>
+        <item>Cable squat to rows</item>
+    </string-array>
+    <string-array name="back_exercises">
+        <item>Seated cable rows</item>
+        <item>Iso-lateral high rows</item>
+        <item>Vertical traction</item>
+        <item>Lat pulldown</item>
+        <item>Bench incline rows</item>
+        <item>Bench incline flies</item>
+        <item>Wolverines</item>
+    </string-array>
+    <string-array name="chest_exercises">
+        <item>Cable chest press</item>
+        <item>Cable chest flies</item>
+        <item>Barbell chest press</item>
+        <item>Barbell incline chest press</item>
+        <item>Dips</item>
+        <item>Iso-lateral bench press</item>
+        <item>Dumbbell chest press</item>
+    </string-array>
+    <string-array name="arm_exercises">
+        <item>Barbell bicep curl</item>
+        <item>Dumbbell bicep curls</item>
+        <item>Cable rope bicep curls</item>
+        <item>Cable tricep pushdown</item>
+        <item>Cable rope extensions</item>
+    </string-array>
+</resources>
